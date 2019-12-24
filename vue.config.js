@@ -1,7 +1,7 @@
 module.exports = {
   devServer: {
     // 设置主机地址
-    host: 'www.maonanbei.cn',
+    host: 'www.hongshanit.cn',
     // 设置默认端口
     port: 80,
     // 设置代理
